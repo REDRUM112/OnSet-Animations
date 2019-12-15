@@ -1,4 +1,4 @@
-# OnSet-Animations
+# [OnSet-Animations](https://playonset.com)
 Package contains nearly all Onset animations, playable via commands and binded key.
 
 
